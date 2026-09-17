@@ -74,7 +74,7 @@ Movie-Recommendation-System/
 
 ## 👨‍💻 Author
 
-**Lakshay Guglani**
+**Paramjeet kaur**
 
 ---
 
